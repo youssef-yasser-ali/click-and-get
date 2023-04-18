@@ -1,5 +1,5 @@
 <p  align="center">
-<img  width="160"  height="90"  alt="EverShop Logo"  src="https://github.com/youssef-yasser-ali/click-and-get/blob/master/src/images/logo.png?raw=true"/>
+<img  width="160"  height="90"  alt="EverShop Logo"  src="https://github.com/youssef-yasser-ali/click-and-get/blob/master/images/logo.png?raw=true"/>
 </p>
 
   <p align="center">
@@ -42,15 +42,15 @@ Click and Get is a simple web application and React ecommerce platform with esse
 
 Home page : 
 
-<img src="https://github.com/youssef-yasser-ali/click-and-get/blob/master/src/images/Demo/demo-1.png?raw=true" />
+<img src="https://github.com/youssef-yasser-ali/click-and-get/blob/master/images/Demo/demo-1.png?raw=true" />
 
 product Details :
 
-<img src="https://github.com/youssef-yasser-ali/click-and-get/blob/master/src/images/Demo/demo-2.png?raw=true" />
+<img src="https://github.com/youssef-yasser-ali/click-and-get/blob/master/images/Demo/demo-2.png?raw=true" />
 
 your card : 
 
-<img src="https://github.com/youssef-yasser-ali/click-and-get/blob/master/src/images/Demo/demo-3.png?raw=true" />
+<img src="https://github.com/youssef-yasser-ali/click-and-get/blob/master/images/Demo/demo-3.png?raw=true" />
 
 
 ## Getting Started
